@@ -15,3 +15,4 @@ try:
 
 except:
     print("오류")
+    print("어케함")
